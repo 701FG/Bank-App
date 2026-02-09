@@ -1,0 +1,50 @@
+:root {
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas;
+
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-md: 16px;
+  --text-lg: 20px;
+  --text-xl: 28px;
+  --text-2xl: 40px;
+  --text-3xl: 56px;
+
+  --w-regular: 400;
+  --w-medium: 500;
+  --w-semibold: 600;
+  --w-bold: 700;
+
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 20px;
+  --s-6: 24px;
+  --s-7: 32px;
+  --s-8: 40px;
+  --s-9: 56px;
+  --s-10: 72px;
+
+  --r-sm: 12px;
+  --r-md: 18px;
+  --r-lg: 26px;
+  --r-xl: 34px;
+
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.08);
+  --shadow-card: 0 18px 60px rgba(0, 0, 0, 0.1);
+
+  --bg: #ffffff;
+  --bg-muted: #f5f5f7;
+  --panel: #ffffff;
+  --text: #0b0b0f;
+  --text-muted: rgba(11, 11, 15, 0.55);
+  --border: rgba(11, 11, 15, 0.08);
+  --green: #21c55d;
+  --red: #ef4444;
+  --greyDot: #9ca3af;
+
+  --card-a: #6ee7ff;
+  --card-b: #9b8cff;
+  --card-c: #ff7ac8;
+}
